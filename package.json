@@ -1,9 +1,9 @@
 {
-  "name": "@tylerbu/download-cli",
+  "name": "@tylerbu/dl-cli",
   "version": "1.1.2-tylerbu-0",
   "description": "Download and extract files",
   "license": "MIT",
-  "repository": "kevva/download-cli",
+  "repository": "tylerbutler/download-cli",
   "author": {
     "name": "Kevin Mårtensson & Tyler Butler",
     "email": "tyler@tylerbutler.com",
