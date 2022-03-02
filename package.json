@@ -16,7 +16,8 @@
     "node": ">=12"
   },
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+		"xo": "xo"
   },
   "files": [
     "cli.js"
@@ -32,7 +33,7 @@
   ],
   "dependencies": {
     "download": "^6.2.1",
-    "meow": "^10.1.2"
+    "meow": "^8"
   },
   "devDependencies": {
     "ava": "*",
